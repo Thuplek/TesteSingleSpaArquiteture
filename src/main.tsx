@@ -1,7 +1,7 @@
 import React from "react";
 import App from "./App.tsx";
 import "./index.css";
-import singleSpaReact from "single-spa-react";
+import singleSpaReact  from "single-spa-react";
 
 import ReactDOM from "react-dom";
 
